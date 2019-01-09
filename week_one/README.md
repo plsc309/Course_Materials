@@ -1,17 +1,17 @@
 ### Introduction to Data: Types, Representation, and Generation
 
-	This is a course on quantitative political analysis. To analyze a political phenomenon, you need to represent that phenomena numerically. We call these numerical representations data. This week, you will learn about different types of data, and how that data is represented for the computer. We will end the week with a discussion of data-generating processes, a concept that we will lean heavily on throughout the course.
+This is a course on quantitative political analysis. To analyze a political phenomenon, you need to represent that phenomena numerically. We call these numerical representations data. This week, you will learn about different types of data, and how that data is represented for the computer. We will end the week with a discussion of data-generating processes, a concept that we will lean heavily on throughout the course.
 
-####Monday, January 7
+#### Monday, January 7
 * Introduction to class
 * Go over syllabus and course policies
 
-####Wednesday, January 9
+#### Wednesday, January 9
 * Types of data
 * Discrete and discrete data
 * Representing data and how data is processed by computer programs
 
-####Friday, January 11
+#### Friday, January 11
 * Introduction to lab
 * Lab: Where does voting come from? Describing the data-generating process of a single variable
 
