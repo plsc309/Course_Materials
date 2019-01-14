@@ -27,5 +27,5 @@ https://en.wikibooks.org/wiki/Probability/Probability_Spaces
 https://www.countbayesie.com/blog/2015/8/30/picture-guide-to-probability-spaces
 
 ##### Recommended:
-https://www.verywellmind.com/what-is-a-heuristic-2795235
+https://www.verywellmind.com/what-is-a-heuristic-2795235  
 https://www.montyhallproblem.com/
