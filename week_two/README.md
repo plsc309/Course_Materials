@@ -20,10 +20,10 @@ NO CLASS, NO LAB (problem set due Wednesday, January 23)
 
 
 #### Reading
-Open-Intro Stats, Sections 2.1 and 2.2 (p. 76-101)
-https://www.youtube.com/watch?v=iKp9XIBO4gs
-https://www.youtube.com/watch?v=1dPMsJ7I6BY
-https://en.wikibooks.org/wiki/Probability/Probability_Spaces
+Open-Intro Stats, Sections 2.1 and 2.2 (p. 76-101)  
+https://www.youtube.com/watch?v=iKp9XIBO4gs  
+https://www.youtube.com/watch?v=1dPMsJ7I6BY  
+https://en.wikibooks.org/wiki/Probability/Probability_Spaces  
 https://www.countbayesie.com/blog/2015/8/30/picture-guide-to-probability-spaces
 
 ##### Recommended:
